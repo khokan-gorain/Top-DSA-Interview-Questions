@@ -1,0 +1,1 @@
+Data Structures and Algorithms (DSA) are fundamental concepts in computer science that play a crucial role in problem-solving and software development. They provide the building blocks and efficient methods for organizing, storing, and manipulating data, as well as for solving computational problems.
